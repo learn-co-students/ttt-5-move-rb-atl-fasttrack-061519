@@ -7,3 +7,13 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
+
+puts "Welcome to Tic Tac Toe!"
+puts "Where would you like to go?"
+user_input = gets
+# puts user_input
+
+def input_to_index(user_input)
+   
+end
+  
